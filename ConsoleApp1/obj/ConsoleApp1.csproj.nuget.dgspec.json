@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Alexander.bolander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\interakriv\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
